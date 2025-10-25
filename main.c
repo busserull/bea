@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Venus\n");
+    printf("Hello Terra\n");
 
     return 0;
 }
