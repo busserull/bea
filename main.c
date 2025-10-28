@@ -1,15 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Mercury\n");
-    printf("Hello Venus\n");
-    printf("Hello Earth\n");
-    printf("Hello Mars\n");
+    const char * planets[] = { "Mercury", "Venus", "Earth", NULL };
 
-    printf("Hello Jupiter\n");
-    printf("Hello Saturn\n");
-    printf("Hello Uranus\n");
-    printf("Hello Neptune\n");
+    for (int i = 0; i < 4; i++) {
+        printf("%s\n", planets[i]);
+    }
 
     return 0;
 }
