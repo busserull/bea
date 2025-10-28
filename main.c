@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello world\n");
+    printf("Hello Mercury\n");
+    printf("Hello Earth\n");
+    printf("Hello Venus\n");
+    printf("Hello Mars\n");
 
     return 0;
 }
