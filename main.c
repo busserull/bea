@@ -7,6 +7,9 @@ int main() {
     printf("Hello Mars\n");
 
     printf("Hello Jupiter\n");
+    printf("Hello Saturn\n");
+    printf("Hello Uranus\n");
+    printf("Hello Neptune\n");
 
     return 0;
 }
