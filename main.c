@@ -6,5 +6,7 @@ int main() {
     printf("Hello Earth\n");
     printf("Hello Mars\n");
 
+    printf("Hello Jupiter\n");
+
     return 0;
 }
